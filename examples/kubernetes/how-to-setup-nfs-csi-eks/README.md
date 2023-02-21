@@ -1,6 +1,6 @@
 ## Short description
 
-Currently Persistent Volume Dynamic provisioning with EFS CSI controller has a hard limit on 1000 accesspoints. NFS CSI controller makes use of subdirectories instead of creating access points.
+Currently Persistent Volume Dynamic provisioning with EFS CSI controller has a hard limit of 1000 accesspoints. NFS CSI controller makes use of subdirectories instead of creating access points.
 
 ## Pre-requisite
 
